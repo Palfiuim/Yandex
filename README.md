@@ -58,7 +58,7 @@
 * PostgreSQL
 
 Для запуска теста необходимо в файл configuration скопировить URLстенда вида 
-https://af91089e-21f4-43df-b12f-95c5239e00b4.serverhub.praktikum-services.ru
+https://cc91580c-6c50-4dff-b80f-69a818d8a604.serverhub.praktikum-services.ru
 
 В файле sendor_stand_request нажать кнопку Run 
 
